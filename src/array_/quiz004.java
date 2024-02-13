@@ -2,7 +2,7 @@ package array_;
 
 import java.util.Scanner;
 
-public class quiz004 {
+public class quiz004 { //5조문제 따라하기 해결
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int arr []= new int [6];
